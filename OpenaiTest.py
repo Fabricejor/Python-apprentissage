@@ -1,7 +1,7 @@
 import openai
 
 # Insère ta clé API ici
-openai.api_key = "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"
+# openai.api_key = "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"
 
 # Effectuer une requête de complétion
 completion = openai.ChatCompletion.create(
