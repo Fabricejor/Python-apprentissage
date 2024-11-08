@@ -1,4 +1,3 @@
-#Clé api OPENAI : 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
 from transformers import pipeline
 
 # Charger le pipeline pour la génération de texte en utilisant FLAN-T5 large
